@@ -18,5 +18,5 @@ Note: This mod requires **Malverk** ([GitHub Repository](https://github.com/Erem
 
 ## Credits
 
-Artwork by **me** and [Turpix](turpix.bsky.social). \
+Artwork by **me** and [Turpix](https://turpix.bsky.social). \
 Thanks to [Eremel](https://github.com/Eremel) for **Malverk** and their help.
