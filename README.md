@@ -10,6 +10,8 @@ All of the following textures are optional, and they can be turned on or off in 
 
 ### Legendary jokers
 
+> Note: These jokers were designed by [Turpix](https://turpix.bsky.social).
+
 Legendary jokers are retextured as the Nakano Sisters according to the following table:
 
 | Caino | Yorick | Triboulet | Perkeo | Chicot |
