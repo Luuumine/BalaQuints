@@ -4,6 +4,8 @@ A mod for [Balatro](https://store.steampowered.com/app/2379780/Balatro/) that ch
 
 > Note: This mod requires **Malverk** ([GitHub Repository](https://github.com/Eremel/Malverk)) to run.
 
+![Thumbnail](/images/thumbnail.jpg)
+
 ## Features
 
 All of the following textures are optional, and they can be turned on or off in **Malverk**'s *Textures* menu.
@@ -38,8 +40,11 @@ The Soul card is also retextured to reflect the changes to the Legendary jokers.
 ## Notes
 
 The artwork in this mod was made by **me** and [Turpix](https://turpix.bsky.social). \
+Thanks to Bécha for his help. \
 Thanks to [Eremel](https://github.com/Eremel) for **Malverk** and their help.
 
 ### Localization
 
-The mod should be translated into every language. If you find an error in translation and would like to help, feel free to send a Pull Request !
+The mod should be translated into every language. If you find an error in translation and would like to help, feel free to send a message.
+
+Thanks to 姓氏是个毛 for their help translating into Chinese.
