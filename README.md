@@ -39,3 +39,7 @@ The Soul card is also retextured to reflect the changes to the Legendary jokers.
 
 The artwork in this mod was made by **me** and [Turpix](https://turpix.bsky.social). \
 Thanks to [Eremel](https://github.com/Eremel) for **Malverk** and their help.
+
+### Localization
+
+The mod should be translated into every language. If you find an error in translation and would like to help, feel free to send a Pull Request !
