@@ -19,14 +19,25 @@ Legendary jokers are retextured as the Nakano Sisters according to the following
 | Caino | Yorick | Triboulet | Perkeo | Chicot |
 | ----- | ------ | --------- | ------ | ------ |
 | ![Ichika](/images/cards/ichika.png) | ![Nino](/images/cards/nino.png) | ![Miku](/images/cards/miku.png) | ![Yotsuba](/images/cards/yotsuba.png)| ![Itsuki](/images/cards/itsuki.png) |
+| Ichika | Nino | Miku | Yotsuba | Itsuki |
+
+### Other jokers
+
+Additional jokers have also been retextured to various elements or characters from the series:
+
+| Diet Cola |
+| --------- |
+|![Matcha Soda](/images/cards/matcha_soda.png) |
+| Matcha Soda |
 
 ### Spectral Cards
 
-The Soul card is also retextured to reflect the changes to the Legendary jokers.
+The Soul card is also retextured to reflect the changes to the Legendary jokers:
 
 | The Soul    |
 | ----------- |
 | ![Nakano Soul](/images/cards/soul.png) |
+| Nakano Soul |
 
 
 ## Installation

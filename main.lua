@@ -26,9 +26,11 @@ AltTexture({
     path = "balaquints_jokers.png",
     original_sheet = true,
     keys = {
+        "j_diet_cola",
     },
 
     localization = {
+        "j_diet_cola",
     },
 })
 

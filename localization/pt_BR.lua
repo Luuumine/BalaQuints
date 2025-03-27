@@ -13,6 +13,7 @@ return {
 
             alt_tex_quints_other_jokers = {
                 name = "Outros Coringas",
+                j_diet_cola = {name = "Refrigerante de Matcha"},
             },
 
             alt_tex_quints_spectrals = {
