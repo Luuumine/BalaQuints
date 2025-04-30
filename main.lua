@@ -1,5 +1,5 @@
 AltTexture({
-    key = "jokers",
+    key = "legendary_jokers",
     set = "Joker",
     path = "balaquints_jokers.png",
     original_sheet = true,
@@ -21,23 +21,38 @@ AltTexture({
 })
 
 AltTexture({
+    key = "other_jokers",
+    set = "Joker",
+    path = "balaquints_jokers.png",
+    original_sheet = true,
+    keys = {
+        "j_diet_cola",
+    },
+
+    localization = {
+        "j_diet_cola",
+    },
+})
+
+AltTexture({
     key = "spectrals",
     set = "Spectral",
     path = "balaquints_tarots.png",
     soul = "balaquints_decks.png",
     original_sheet = true,
     keys = {
-        "c_soul"
+        "c_soul",
     },
     localization = {
-        "c_soul"
-    }
+        "c_soul",
+    },
 })
 
 TexturePack({
     key = "lumine_cards",
     textures = {
         "quints_spectrals",
-        "quints_jokers",
+        "quints_other_jokers",
+        "quints_legendary_jokers",
     }
 })
