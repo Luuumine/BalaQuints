@@ -13,6 +13,7 @@ return {
 
             alt_tex_quints_other_jokers = {
                 name = "Другие джокеры",
+                j_joker = {name = "Футаро"},
                 j_diet_cola = {name = "Газировка с Матчей"},
             },
 

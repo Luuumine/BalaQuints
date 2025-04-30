@@ -27,7 +27,7 @@ Additional jokers have also been retextured to various elements or characters fr
 
 | Joker | Diet Cola |
 | ----- | --------- |
-|![Coming Soon!](/images/cards/coming_soon.png) | ![Matcha Soda](/images/cards/matcha_soda.png) |
+|![Futaro](/images/cards/futaro.png) | ![Matcha Soda](/images/cards/matcha_soda.png) |
 | Futaro | Matcha Soda |
 
 ### Spectral Cards

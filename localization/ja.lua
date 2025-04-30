@@ -13,6 +13,7 @@ return {
 
             alt_tex_quints_other_jokers = {
                 name = "その他のジョーカー",
+                j_joker = {name = "風太郎"},
                 j_diet_cola = {name = "抹茶ソーダ"},
             },
 
