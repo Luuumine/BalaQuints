@@ -25,10 +25,10 @@ Legendary jokers are retextured as the Nakano Sisters according to the following
 
 Additional jokers have also been retextured to various elements or characters from the series:
 
-| Diet Cola |
-| --------- |
-|![Matcha Soda](/images/cards/matcha_soda.png) |
-| Matcha Soda |
+| Joker | Diet Cola |
+| ----- | --------- |
+|![Coming Soon!](/images/cards/coming_soon.png) | ![Matcha Soda](/images/cards/matcha_soda.png) |
+| Futaro | Matcha Soda |
 
 ### Spectral Cards
 
